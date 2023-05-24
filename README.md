@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C147E9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Emanuel+Sobral;I'm+23+years+old;I'm+from+Brazil;I+Studying+Software+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=emanuelsobral&bg_color=0d1117&color=ffffff&line=000000&point=c147e9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuelsobral&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelsobral&langs_count=6&layout=donut&theme=radical)](https://github.com/emanuelsobral/github-readme-stats)
 
